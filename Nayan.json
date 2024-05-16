@@ -1,25 +1,26 @@
 {
   "author": "Nayan",
   "autoRestart": true,
-  "accpetPending": false,
   "developermode": false,
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "🤖🥰𝕊𝕖𝕟𝕚𝕠𝕣 𝔸𝕡𝕦🥰🤖",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100014020217824",
+    "100027427117900",
+    "100077668068280"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "100014020217824",
+    "100078522877706",
+    "100055902609181"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
-  "notice": "dont cng author name and owner uid. otherwise bot not working"
+  "notice": " dont cng auther name and owner uid. otherwise bot not working"
 }
