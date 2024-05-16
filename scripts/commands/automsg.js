@@ -1,4 +1,4 @@
-module.exports.config = {
+odule.exports.config = {
     name: "autotime",
   version: "1.0.0",
   permission: 0,
