@@ -1,4 +1,4 @@
-module.exports.config = {
+odule.exports.config = {
 	name: "leave",
 	eventType: ["log:unsubscribe"],
 	version: "1.0.0",
