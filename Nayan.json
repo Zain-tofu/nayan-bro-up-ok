@@ -4,7 +4,7 @@
   "developermode": false,
   "language": "en",
   "notification": true,
-  "approval": false,
+  "approval": true,
   "BOTNAME": "🤖🥰𝕊𝕖𝕟𝕚𝕠𝕣 𝔸𝕡𝕦🥰🤖",
   "PREFIX": "/",
   "OPERATOR": [
